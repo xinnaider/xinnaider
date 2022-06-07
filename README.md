@@ -1,3 +1,5 @@
+<img height="250px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
+
 ## Sejam bem-vindos ao meu GitHub 👋
 
 <q>O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.<q/>
