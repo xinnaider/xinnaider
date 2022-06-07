@@ -1,3 +1,12 @@
+## Sejam bem-vindos ao meu GitHub 👋
+
+<q>O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.<q/>
+
+## Hobbies
+
+🎮 Jogar video-game <br/>
+💻 Programar <br/>
+📚 Estudar (Engenharia de Software, Segurança da Informação e Desenvolvimento Web)
 
 ## Minhas linguagens
 
