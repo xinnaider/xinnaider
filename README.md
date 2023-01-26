@@ -10,14 +10,18 @@
 💻 Programar <br/>
 📚 Estudar (Engenharia de Software, Segurança da Informação e Desenvolvimento Web)
 
-### Minhas linguagens
+### Minhas linguagens e ferramentas
 
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <nobr>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <nobr> 
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <nobr>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <nobr>
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <nobr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
  ### Estatisticas
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinnaider)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinnaider&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinnaider&show_icons=true&theme=transparent)
