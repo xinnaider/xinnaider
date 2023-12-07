@@ -8,7 +8,7 @@
 
 🎮 Jogar video-game <br/>
 💻 Programar <br/>
-📚 Estudar (Engenharia de Software, Segurança da Informação e Desenvolvimento Web)
+📚 Ler
 
 ### Minhas linguagens e ferramentas
 
