@@ -4,12 +4,6 @@
 
 <q>O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.<q/>
 
-### Hobbies
-
-🎮 Jogar video-game <br/>
-💻 Programar <br/>
-📚 Ler
-
 ### Minhas linguagens e ferramentas
 
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <nobr>
