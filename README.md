@@ -1,5 +1,3 @@
-<img height="250px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
-
 ## Sejam bem-vindos ao meu GitHub 👋
 
 <q>O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.<q/>
@@ -13,7 +11,3 @@
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <nobr>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <nobr>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
- ### Estatisticas
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinnaider&show_icons=true&theme=dark)
